@@ -6,7 +6,10 @@ This project is dedicated to learning and practicing the principles of responsiv
 
 ## Topics Covered
 
-    1. Using Percentage and avoiding heights.
-    2. Getting familiar with relactive units.
-    3. Max-width
-    4. CSS Viewport Units
+```
+* Using Percentage and avoiding heights.
+* Getting familiar with relactive units.
+* Max-width
+* CSS Viewport Units
+* Flexbox Basics
+```
