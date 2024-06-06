@@ -12,4 +12,5 @@ This project is dedicated to learning and practicing the principles of responsiv
 * Max-width
 * CSS Viewport Units
 * Flexbox Basics
+* Flexbox Deeper Dive
 ```
